@@ -18,7 +18,7 @@ public class Main {
     System.out.println("Classname : "+classname);
     Method[] method = helloWorldClass.getMethods();
     System.out.println(method[0]);
-   
+   System.out.println("Test 1");
 }
 }	
 	
